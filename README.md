@@ -33,3 +33,13 @@ An interactive Power BI dashboard developed to analyze sales, profit, customer s
 
 ## How to View
 Download the Power BI report (.pbix) and open it using Power BI Desktop.
+
+## Dashboard Preview
+
+### Page 1 – Sales Overview
+
+![Sales Overview](page_1.png)
+
+### Page 2 – Business Performance
+
+![Business Performance](page_2.png)
