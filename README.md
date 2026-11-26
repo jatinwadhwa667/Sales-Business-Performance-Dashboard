@@ -38,8 +38,8 @@ Download the Power BI report (.pbix) and open it using Power BI Desktop.
 
 ### Page 1 – Sales Overview
 
-![Sales Overview](page1.png)
+![Sales Overview](sales_overview.png)
 
 ### Page 2 – Business Performance
 
-![Business Performance](page2.png)
+![Business Performance](sales-analysis.png)
